@@ -109,7 +109,7 @@ After running both steps it will generate:
 
     ✅ Create scorer_results/candidate_december.png (official chart)
 
-
+so the resulting files are : validation_predictions.csv  and  scorer_results/candidate_december.png
 Check your outputs:
 
 You should see:
