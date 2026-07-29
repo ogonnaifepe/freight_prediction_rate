@@ -110,7 +110,12 @@ After running both steps it will generate:
     ✅ Create scorer_results/candidate_december.png (official chart)
 
 so the resulting files are : validation_predictions.csv  and  scorer_results/candidate_december.png
-Check your outputs:
+
+
+
+Check your outputs: for the command below:
+
+python score.py --predictions validation_predictions.csv --december-predictions data/december_chart_inputs_with_predictions.csv
 
 You should see:
 
