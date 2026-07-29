@@ -40,7 +40,8 @@ This will:
 	
 	
 📁 The following Files are Created based on the command ran above;
-	Note: these files have already been created as step 1 and 2 have been executed before now, however you may still run as it will override
+	Note: these files have already been created as step 1 and 2 have been executed before now,
+however you may still run as it will override
 ✅ 1. validation_predictions.csv -  SUBMISSION FILE!
 
     12,000 predictions for the validation data
