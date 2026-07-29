@@ -39,8 +39,8 @@ This will:
 	
 	
 	
-	📁 The following Files are Created based on thecommand ran above;
-	Note: these files can be before running step 1 and 2, however you may still run as it will override
+📁 The following Files are Created based on the command ran above;
+	Note: these files have already been created as step 1 and 2 have been executed before now, however you may still run as it will override
 ✅ 1. validation_predictions.csv -  SUBMISSION FILE!
 
     12,000 predictions for the validation data
@@ -108,8 +108,8 @@ After running both steps it will generate:
 
     ✅ Create scorer_results/candidate_december.png (official chart)
 
-Note: these files can be before running step 1 and 2, however you may still run as it will override
-	Check your outputs:
+
+Check your outputs:
 
 You should see:
 
